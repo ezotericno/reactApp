@@ -1,5 +1,10 @@
 /*import styles from './Button.module.css'*/
 
+// Styling React Components with CSS
+// 1. External
+// 2. Modules
+// 3. Inline
+
 function Button(){
 
     const styles = {
