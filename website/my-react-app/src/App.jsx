@@ -8,7 +8,7 @@ function App() {
   
   return(
     <>
-    <Student name="Spongebob" age={30}/>
+    <Student name="Spongebob" age={30} isStudent={true}/>
     </>
   );
 }
